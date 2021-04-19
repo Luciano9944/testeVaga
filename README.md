@@ -24,6 +24,6 @@ vagadeinteresse varchar(255),
 PRIMARY KEY (idcandidato)
 );
 
-6.baixe o projeto do git e coloque na pasta onde o xampp foi instalado xampp\htdocs\testeVaga
-7.abra o navegador e digite http://localhost/testeVaga/teste.php
-8.pronto, agora é só executar a aplicação.
+6. baixe o projeto do git e coloque na pasta onde o xampp foi instalado: xampp\htdocs\testeVaga
+7. abra o navegador e digite http://localhost/testeVaga/teste.php
+8. pronto, agora é só executar a aplicação.
